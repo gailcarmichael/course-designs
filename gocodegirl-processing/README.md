@@ -2,7 +2,7 @@
 
 In 2013, I started Go Code Girl with Nathalie Vallières as a joint initiative between Carleton University and the University of Ottawa. [Go Code Girl](http://www.onwie.ca/programs/go-code-girl) has since become an Ontario-wide initiative, run by the [Ontario Network of Women in Engineering (ONWiE)](http://www.onwie.ca/).
 
-Our first Go Code Girl event in 2013 taught high school girls Processing in a one-day workshop. Instruction went as follows, using the slides included here:
+Our first Go Code Girl event in 2013 taught high school girls [Processing](http://www.processing.org) in a one-day workshop. The workshop went as follows:
 
 * Introduction to computer science
 * Women in CS
