@@ -5,6 +5,6 @@ The central idea of my design is to begin the course with basic C++ and problem 
 
 The objective of the course is to have students become proficient in Java, so they do not learn a lot of C++.  In fact, we use only a minimum of C++ to illustrate that while you make explicit choices in C++, such as whether to pass by value or by reference, these choices are made implicitly for you in Java.  In other words, learning C++ is in service of more deeply understanding Java.  Translation exercises emphasize differences between the languages, and students are only asked to write simple programs in C++ (more complex programs are written in Java).
 
-Please note that code examples from [Think Like a Programmer](http://www.nostarch.com/thinklikeaprogrammer), one of our course textbooks, are not included here.
+Please note that code examples from [Think Like a Programmer](http://www.nostarch.com/thinklikeaprogrammer), one of our course textbooks, are not included here.  Instead, you will find lecture notes and custom code samples.
 
 More information about the course design is available [here](http://gailcarmichael.com/teaching/coursedesign/cs2).

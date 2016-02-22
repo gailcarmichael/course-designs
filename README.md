@@ -1,6 +1,6 @@
 # Computing Course Designs
 
-This is a collection of my notes and code examples for computing courses I have designed.  Eventually, I may also post tutorials and even sample assignments.  More courses will be added here over time.
+This is a collection of my notes and code examples for computing courses and workshops I have designed.
 
 ## For More
 
